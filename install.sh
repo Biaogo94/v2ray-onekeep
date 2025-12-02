@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
-# ==============================================================================
-# Project: v2ray-agent Ultimate Refactor
-# Original Logic: mack-a | Refactored by: Gemini
-# Description: All-in-One Xray/Sing-box deployment with strict security & modularity.
-# ==============================================================================
 
 # ------------------------------------------------------------------------------
 # 1. 环境初始化与全局变量
